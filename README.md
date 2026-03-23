@@ -26,8 +26,7 @@ The framework extends the DrMMD of Chen et al. (2025) along four axes:
 ```
 spectral-drmmd/
 ├── paper/
-│   ├── spectral_drmmd_sn.tex       # Main LaTeX source (Springer Nature sn-jnl)
-│   └── spectral_drmmd_sn.bib       # Bibliography (127 entries)
+│   ├── spectral_drmmd_snpdf       # pdf paper source (Springer Nature sn-jnl)
 ├── figures/                        # All figures included in the paper
 │   ├── filter_shapes.png
 │   ├── jax_three_ring_results.png
